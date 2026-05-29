@@ -1,17 +1,52 @@
-## 📌 SOBRE MIM 
-Meu nome é Yuri e sou estudante de Ciência da Computação. Tenho interesse em diferentes áreas da tecnologia e venho desenvolvendo minhas habilidades no Frontend, Backend e também na área de Dados.
-Iniciei meus estudos com HTML, CSS e JavaScript e, a partir disso, venho expandindo meu conhecimento em linguagens, frameworks e ferramentas que me permitem atuar em diferentes camadas do desenvolvimento web e análise de dados.
-Busco evolução constante, com foco em boas práticas, organização de código, lógica de programação e entendimento dos processos por trás dos sistemas e da manipulação de dados.
+<p align="center">
 
-**💼 Experiência Profissional**
-- 💻 Suporte Técnico
-- 📚 PHP (sistemas internos e backend).
-- 🗄️ Banco de dados (consultas e manutenção).
-- 🌐 HTML, CSS e JavaScript (ajustes e desenvolvimento frontend).
-- 🐍 Python (suporte em automações e dados).
+![Banner](https://capsule-render.vercel.app/api?type=venom&color=0:060d17,100:0b1220&height=180&text=Enzo%20Yuri&fontSize=44&fontColor=e6edf3&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER&descAlignY=68&descColor=58a6ff&descSize=13)
 
-## 🧰 Tecnologias & Ferramentas
-<p align="left">
+</p>
+
+---
+
+<p align="center">
+  <img 
+    src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif"
+    width="500"
+    alt="Terminal Animation"
+  />
+</p>
+
+---
+
+## 📌 SOBRE MIM
+
+<p align="center">
+
+Sou estudante de Ciência da Computação com interesse em desenvolvimento Full Stack e área de Dados.  
+Tenho experiência prática com desenvolvimento web, suporte técnico, banco de dados e automações.
+
+Iniciei meus estudos com HTML, CSS e JavaScript e, desde então, venho evoluindo em backend, frontend e dados.
+
+</p>
+
+---
+
+## 💼 EXPERIÊNCIA PROFISSIONAL - Mônaco Diesel 
+
+<p align="center">
+
+- 💻 Suporte Técnico  
+- 📚 PHP (sistemas internos e backend)  
+- 🗄️ Banco de dados (consultas e manutenção)  
+- 🌐 HTML, CSS e JavaScript  
+- 🐍 Python (automação e dados)
+
+</p>
+
+---
+
+## 🧰 TECNOLOGIAS & FERRAMENTAS
+
+<p align="center">
+
   <img alt="Python" height="30" width="40"
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img alt="JavaScript" height="30" width="40"
@@ -28,7 +63,21 @@ Busco evolução constante, com foco em boas práticas, organização de código
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img alt="Angular" height="30" width="40"
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+
 </p>
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=EnzoYuri1&show_icons=true&theme=github_dark&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&border_color=1e3a5f)
+---
+
+## 📊 GITHUB STATS
+
+<p align="left">
+  <img 
+    height="188em"
+    src="https://github-readme-stats-seven-wine-33.vercel.app/api?username=EnzoYuri1&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    style="display:inline-block;"
+  /> <img 
+    height="188em"
+    src="https://github-readme-stats-seven-wine-33.vercel.app/api/top-langs/?username=EnzoYuri1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    style="display:inline-block;"
+  />
+</p>
