@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d2147,100:1a3a6b&height=200&text=Enzo%20Yuri&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=FULL%20STACK%20DEVELOPER&descAlignY=70&descColor=58a6ff&descSize=14&fontAlign=50&fontFamily=Raleway" width="100%" />
 </p>
-
 <p align="center">
   <img 
     src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif"
@@ -12,23 +11,23 @@
 
 ---
 
-## 📌 SOBRE MIM
-Sou estudante de Ciência da Computação com interesse em desenvolvimento Full Stack e área de Dados. Tenho experiência prática com desenvolvimento web, suporte técnico, banco de dados e automações.
+## 📌 ABOUT ME
 
-Iniciei meus estudos com HTML, CSS e JavaScript e, desde então, venho evoluindo em backend, frontend e dados.
+I'm a Computer Science student interested in Full Stack development and Data. I have hands-on experience with web development, technical support, databases, and automation.
+I started my studies with HTML, CSS and JavaScript and have since been growing in backend, frontend and data.
 
 ---
 
-## 💼 EXPERIÊNCIA PROFISSIONAL - Mônaco Diesel 
-- 💻 Suporte Técnico  
-- 📚 PHP (sistemas internos e backend)  
-- 🗄️ Banco de dados (consultas e manutenção)  
-- 🌐 HTML, CSS e JavaScript  
-- 🐍 Python (automação e dados)
-  
+## 💼 WORK EXPERIENCE - Mônaco Diesel
+- 💻 Technical Support  
+- 📚 PHP (internal systems and backend)  
+- 🗄️ Database (queries and maintenance)  
+- 🌐 HTML, CSS and JavaScript  
+- 🐍 Python (automation and data)
+
 ---
 
-## 🧰 TECNOLOGIAS & FERRAMENTAS
+## 🧰 TECHNOLOGIES & TOOLS
 
 <img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -45,10 +44,10 @@ Iniciei meus estudos com HTML, CSS e JavaScript e, desde então, venho evoluindo
 <p align="center">
   <img 
     height="188em"
-    src="https://github-readme-stats-seven-wine-33.vercel.app/api?username=EnzoYuri1&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    src="https://github-readme-stats-seven-wine-33.vercel.app/api?username=EnzoYuri1&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en"
   /><img 
     height="188em"
-    src="https://github-readme-stats-seven-wine-33.vercel.app/api/top-langs/?username=EnzoYuri1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+    src="https://github-readme-stats-seven-wine-33.vercel.app/api/top-langs/?username=EnzoYuri1&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9"
   />
 </p>
 <p align="center">
